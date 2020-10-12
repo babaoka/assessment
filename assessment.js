@@ -89,7 +89,7 @@ const answers = [
  }
 
  /*console.log(assessment('太郎'));
- console.log(assessment('二郎'));
+ console.lo(assessment('二郎'));
  console.log(assessment('太郎'));*/
  console.assert(
    assessment('太郎') === '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。','診断結果の文言の特定の部分を名前に変える処理が正しくありません'
